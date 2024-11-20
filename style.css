@@ -1,0 +1,24 @@
+* {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+ul img {
+    width: 100;
+    height: auto;
+}
+
+ul {
+    text-align: end;
+}
+
+li {
+    text-align: start;
+}
